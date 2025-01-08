@@ -8,7 +8,7 @@ This is a proof of concept (POC) for a code review application built using the `
 ### 1. Clone the repository
 
 ```bash
-[git clone <repository-url>](https://github.com/TheSciPro/Code-Reviewer.git)
+git clone https://github.com/TheSciPro/Code-Reviewer.git
 cd backend
 ```
 
