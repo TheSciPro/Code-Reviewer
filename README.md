@@ -36,3 +36,11 @@ A code diff represents the changes made between two versions of a file or set of
 ### 5. Review response
 The model will generate a response, simulating a senior software engineer reviewing the code, highlighting potential improvements, and offering feedback.
 
+## Chatbot
+![image](https://github.com/user-attachments/assets/423d00a3-6c22-405a-a308-1a1b5c720f47)
+
+enter code diff, get it reviewed!
+
+![image](https://github.com/user-attachments/assets/fdf9a35c-a1f0-47ee-9f35-eeee53c5bd3c)
+
+
